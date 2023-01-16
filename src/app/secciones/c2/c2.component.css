@@ -1,0 +1,24 @@
+.sectionGeneral{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.sectionBarraInferior{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(189, 189, 189);
+    height: 100px;
+    width: 90%;
+    border: 1px none;
+    border-radius: 20px;
+}
+
+.sectionText{
+    padding: 1rem;
+}
+
+img{
+    width: 50px;
+}

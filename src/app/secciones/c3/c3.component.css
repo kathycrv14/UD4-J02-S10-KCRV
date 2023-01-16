@@ -1,0 +1,46 @@
+.sectionGeneral{
+    padding: 1rem;
+}
+
+.sectionIngresarDatos{
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    flex: wrap;
+    text-align: center;
+}
+
+.sectionDatos{
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    justify-content: center;
+    display: block;
+    flex: wrap;
+    border: 1px solid;
+    border-color: rgb(76, 76, 220);
+    width: 50rem;
+}
+
+.sectionDatos1{
+    margin: 1rem;
+}
+
+.datos1, .datos2{
+    width: 50%
+}
+
+.sectionDatos3{
+    padding: 1rem;
+}
+
+th, td, tr{
+    text-align: center;
+}
+
+.sectionTabla{
+    border: 1px solid;
+    border-color: rgb(76, 76, 220);
+}
